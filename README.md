@@ -1,7 +1,4 @@
-```markdown
 # Chatbot de Briefing de Design
-
-[![Em Desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)](https://github.com/seu_usuario/seu_repositorio)
 
 ## Descrição
 
@@ -23,21 +20,16 @@ Este chatbot analisa informações sobre o cliente, área de atuação e referê
 
 ## Exemplo de Uso
 
+````markdown
 **Entrada:**
-
-```
-
 Área de atuação: Design de Aplicativos Mobile
 Cliente: Liga de Favela
 Projeto: Novo Aplicativo Mobile
 Informações Relevantes: ... (informações que você já tem)
 
-```
-
 **Saída:**
 
-```
-
+```markdown
 ## Perguntas do Briefing
 
 1.  Qual a entidade específica por trás deste projeto...?
@@ -47,10 +39,6 @@ Informações Relevantes: ... (informações que você já tem)
 
 1.  Foco na Clareza do Cliente e Propósito...
 2.  ...
-
-<!-- end list -->
-
-```
 
 ## Tecnologias Utilizadas
 
@@ -63,9 +51,13 @@ Se você quiser contribuir para este projeto, por favor, faça um fork do reposi
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](https://opensource.org/licenses/MIT) para obter mais detalhes.
 
 ## Contato
 
-Seu Nome - [seu_email@email.com](seu_email@email.com) - [Seu LinkedIn (opcional)](https://www.linkedin.com/in/seu_perfil/)
+Seu Nome - [seu\_email@email.com](mailto:seu_email@email.com) - [Seu LinkedIn (opcional)](https://www.linkedin.com/in/seu_perfil/)
 ```
+
+A chave aqui é envolver todo o bloco do "Exemplo de Uso" com as cercas de código (```) e, dentro dele, usar a formatação Markdown para a entrada e saída, incluindo as cercas de código internas para os blocos de código de exemplo.
+
+Espero que esta versão funcione corretamente para você copiar e colar de uma vez só\! Agradeço a sua paciência e por apontar os meus erros.
