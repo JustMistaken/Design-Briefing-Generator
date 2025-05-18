@@ -1,4 +1,4 @@
-# Chatbot de Briefing de Design
+# 🎨 Chatbot de Briefing de Design ✍
 
 ## Descrição
 
@@ -20,9 +20,4 @@ Este chatbot analisa informações sobre o cliente, área de atuação e referê
 
 ## Contato
 
-💛 Jorge Schaan - [seu\_email@email.com](mailto:schaan1@hotmail.com) - [LinkedIn](https://www.linkedin.com/in/jorge-schaan/)
-```
-
-A chave aqui é envolver todo o bloco do "Exemplo de Uso" com as cercas de código (```) e, dentro dele, usar a formatação Markdown para a entrada e saída, incluindo as cercas de código internas para os blocos de código de exemplo.
-
-Espero que esta versão funcione corretamente para você copiar e colar de uma vez só\! Agradeço a sua paciência e por apontar os meus erros.
+💛 Jorge Schaan - [schaan1@hotmail.com](mailto:schaan1@hotmail.com) - [LinkedIn](https://www.linkedin.com/in/jorge-schaan/)
