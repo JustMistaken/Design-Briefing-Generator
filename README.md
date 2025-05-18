@@ -1,7 +1,7 @@
+```markdown
 # Chatbot de Briefing de Design
 
 [![Em Desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)](https://github.com/seu_usuario/seu_repositorio)
-[![Licença MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
 ## Descrição
 
@@ -24,3 +24,48 @@ Este chatbot analisa informações sobre o cliente, área de atuação e referê
 ## Exemplo de Uso
 
 **Entrada:**
+
+```
+
+Área de atuação: Design de Aplicativos Mobile
+Cliente: Liga de Favela
+Projeto: Novo Aplicativo Mobile
+Informações Relevantes: ... (informações que você já tem)
+
+```
+
+**Saída:**
+
+```
+
+## Perguntas do Briefing
+
+1.  Qual a entidade específica por trás deste projeto...?
+2.  ...
+
+## Insights Acionáveis
+
+1.  Foco na Clareza do Cliente e Propósito...
+2.  ...
+
+<!-- end list -->
+
+```
+
+## Tecnologias Utilizadas
+
+* Python
+* Bibliotecas: (liste as bibliotecas que você usou)
+
+## Contribuição
+
+Se você quiser contribuir para este projeto, por favor, faça um fork do repositório e envie um pull request com suas alterações.
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+
+## Contato
+
+Seu Nome - [seu_email@email.com](seu_email@email.com) - [Seu LinkedIn (opcional)](https://www.linkedin.com/in/seu_perfil/)
+```
